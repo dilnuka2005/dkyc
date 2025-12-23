@@ -1,0 +1,7 @@
+{
+  "name": "Dream Makers Youth & Sport Club",
+  "description": "A modern, high-performance web application for the Dream Makers Youth & Sport Club, featuring real-time data from Supabase, smooth animations, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
